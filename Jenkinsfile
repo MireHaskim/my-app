@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        PROJECT_ID = 'My First Project'
+        PROJECT_ID = 'project-f66ece82-84d1-4937-b20'
         REGION = 'us-central1'
         CLUSTER = 'my-learning-cluster'
         REPO = 'us-central1-docker.pkg.dev/project-f66ece82-84d1-4937-b20/my-learning-repo'
